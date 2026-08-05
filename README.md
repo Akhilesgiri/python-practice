@@ -507,7 +507,6 @@ python-practice/
     ├── python_basics.md
     └── strings.md
 ```
-Nice! I can also update `README.md` with this same tree if you want. Would you like me to do that? (yes/no)
 - Build a complete Python learning path from beginner to advanced
 - Practice backend and API development with FastAPI
 - Solve real-world problems with algorithms and data structures
