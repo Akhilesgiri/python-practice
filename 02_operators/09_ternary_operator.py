@@ -1,0 +1,1 @@
+# Placeholder file: 09_ternary_operator.py\n
