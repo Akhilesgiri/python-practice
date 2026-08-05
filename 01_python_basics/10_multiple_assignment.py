@@ -1,0 +1,1 @@
+# Placeholder file: 10_multiple_assignment.py\n
